@@ -1,4 +1,4 @@
- const {
+const {
   app, Menu, Tray, dialog,
 } = require('electron');
 
