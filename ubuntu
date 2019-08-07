@@ -1,0 +1,10 @@
+"category": "Utility",
+      "icon": "icon.png",
+      "target": [
+        "deb"
+        "deb",
+        "snap",
+        "rpm"
+      ]
+    }
+  }
